@@ -1,4 +1,4 @@
 # Tiles
-Simple "tiles" html template
+Simple "tiles" css template
 
 ![Tiles](gif/tiles.gif)
